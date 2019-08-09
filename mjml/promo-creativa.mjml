@@ -6,7 +6,7 @@
     <!-- Header -->
     <mj-section background-color="#4454b2" padding="0">
       <mj-column>
-        <mj-image padding="0" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/hero.jpg" width="600px" />
+        <mj-image padding="0" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/hero.jpg" href="https://plus.netzun.com/pack/6" width="600px" />
       </mj-column>
     </mj-section>
 
@@ -17,10 +17,11 @@
         <mj-text align="center" font-family="Gotham Rounded Book" color="#4d5668" font-size="18px" line-height="26px">Aprende desde cero y domina las herramientas más importantes en el mundo del diseño.</mj-text>
       </mj-column>
     </mj-section>
+
     <!-- Button -->
     <mj-section padding="32px" padding-top="0" padding-bottom="16px" background-color="#f4f7f9">
       <mj-column>
-        <mj-button href="https://plus.netzun.com/" font-family="Gotham Rounded Book" background-color="#6f75ff" color="white" font-size="16px" font-weight="700">
+        <mj-button href="https://plus.netzun.com/pack/6" font-family="Gotham Rounded Book" background-color="#6f75ff" color="white" font-size="16px" font-weight="700">
           Acceder Ahora
         </mj-button>
       </mj-column>
@@ -43,13 +44,13 @@
         <mj-table>
           <tr>
             <td style="width: 80px;">
-              <a href="https://plus.netzun.com/course/71">
+              <a href="https://plus.netzun.com/pack/6">
                 <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/001.png" width="80px" />
               </a>
             </td>
             <td style="font-family: Gotham Rounded Book; font-weight: 700; font-size: 16px; color: #787e88; padding-left: 12px">
               <div><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" /></div>
-              <a href="https://plus.netzun.com/course/71" style="color: #787e88; text-decoration: none;">Photoshop para Social Media</a>
+              <a href="https://plus.netzun.com/pack/6" style="color: #787e88; text-decoration: none;">Photoshop para Social Media</a>
             </td>
           </tr>
         </mj-table>
@@ -58,13 +59,13 @@
         <mj-table>
           <tr>
             <td style="width: 80px;">
-              <a href="https://plus.netzun.com/course/72">
+              <a href="https://plus.netzun.com/pack/6">
                 <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/002.png" width="80px" />
               </a>
             </td>
             <td style="font-family: Gotham Rounded Book; font-weight: 700; font-size: 16px; color: #787e88; padding-left: 12px">
               <div><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" /></div>
-              <a href="https://plus.netzun.com/course/72" style="color: #787e88; text-decoration: none;">Photoshop: Herramientas y Usos</a>
+              <a href="https://plus.netzun.com/pack/6" style="color: #787e88; text-decoration: none;">Photoshop: Herramientas y Usos</a>
             </td>
           </tr>
         </mj-table>
@@ -75,13 +76,13 @@
         <mj-table>
           <tr>
             <td style="width: 80px;">
-              <a href="https://plus.netzun.com/course/91">
+              <a href="https://plus.netzun.com/pack/6">
                 <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/003.png" width="80px" />
               </a>
             </td>
             <td style="font-family: Gotham Rounded Book; font-weight: 700; font-size: 16px; color: #787e88; padding-left: 12px">
               <div><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" /></div>
-              <a href="https://plus.netzun.com/course/91" style="color: #787e88; text-decoration: none;">Introducción a After Effects</a>
+              <a href="https://plus.netzun.com/pack/6" style="color: #787e88; text-decoration: none;">Introducción a After Effects</a>
             </td>
           </tr>
         </mj-table>
@@ -90,13 +91,13 @@
         <mj-table>
           <tr>
             <td style="width: 80px;">
-              <a href="https://plus.netzun.com/course/75">
+              <a href="https://plus.netzun.com/pack/6">
                 <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/004.png" width="80px" />
               </a>
             </td>
             <td style="font-family: Gotham Rounded Book; font-weight: 700; font-size: 16px; color: #787e88; padding-left: 12px">
               <div><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" /></div>
-              <a href="https://plus.netzun.com/course/75" style="color: #787e88; text-decoration: none;">Introducción a InDesign</a>
+              <a href="https://plus.netzun.com/pack/6" style="color: #787e88; text-decoration: none;">Introducción a InDesign</a>
             </td>
           </tr>
         </mj-table>
@@ -107,13 +108,13 @@
         <mj-table>
           <tr>
             <td style="width: 80px;">
-              <a href="https://plus.netzun.com/course/90">
+              <a href="https://plus.netzun.com/pack/6">
                 <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/005.png" width="80px" />
               </a>
             </td>
             <td style="font-family: Gotham Rounded Book; font-weight: 700; font-size: 16px; color: #787e88; padding-left: 12px">
               <div><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" /></div>
-              <a href="https://plus.netzun.com/course/90" style="color: #787e88; text-decoration: none;">Premiere: Edición de Video</a>
+              <a href="https://plus.netzun.com/pack/6" style="color: #787e88; text-decoration: none;">Premiere: Edición de Video</a>
             </td>
           </tr>
         </mj-table>
@@ -122,13 +123,13 @@
         <mj-table>
           <tr>
             <td style="width: 80px;">
-              <a href="https://plus.netzun.com/course/80">
+              <a href="https://plus.netzun.com/pack/6">
                 <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/006.png" width="80px" />
               </a>
             </td>
             <td style="font-family: Gotham Rounded Book; font-weight: 700; font-size: 16px; color: #787e88; padding-left: 12px">
               <div><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" /></div>
-              <a href="https://plus.netzun.com/course/80" style="color: #787e88; text-decoration: none;">InDesign: Diseño para Retail</a>
+              <a href="https://plus.netzun.com/pack/6" style="color: #787e88; text-decoration: none;">InDesign: Diseño para Retail</a>
             </td>
           </tr>
         </mj-table>
@@ -139,13 +140,13 @@
         <mj-table>
           <tr>
             <td style="width: 80px;">
-              <a href="https://plus.netzun.com/course/21">
+              <a href="https://plus.netzun.com/pack/6">
                 <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/007.png" width="80px" />
               </a>
             </td>
             <td style="font-family: Gotham Rounded Book; font-weight: 700; font-size: 16px; color: #787e88; padding-left: 12px">
               <div><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/3-courses-tag.png" width="82px" /></div>
-              <a href="https://plus.netzun.com/course/21" style="color: #787e88; text-decoration: none;">Photoshop Básico a Avanzado</a>
+              <a href="https://plus.netzun.com/pack/6" style="color: #787e88; text-decoration: none;">Photoshop Básico a Avanzado</a>
             </td>
           </tr>
         </mj-table>
@@ -154,13 +155,13 @@
         <mj-table>
           <tr>
             <td style="width: 80px;">
-              <a href="https://plus.netzun.com/course/43">
+              <a href="https://plus.netzun.com/pack/6">
                 <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/008.png" width="80px" />
               </a>
             </td>
             <td style="font-family: Gotham Rounded Book; font-weight: 700; font-size: 16px; color: #787e88; padding-left: 12px">
               <div><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/3-courses-tag.png" width="82px" /></div>
-              <a href="https://plus.netzun.com/course/43" style="color: #787e88; text-decoration: none;">Illustrator Básico a Avanzado</a>
+              <a href="https://plus.netzun.com/pack/6" style="color: #787e88; text-decoration: none;">Illustrator Básico a Avanzado</a>
             </td>
           </tr>
         </mj-table>
@@ -171,7 +172,7 @@
     <mj-section padding="32px" padding-bottom="0px" background-color="#e6e9ed">
       <mj-column>
         <mj-text>
-          <a href="https://plus.netzun.com/"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/netzun-logo-grey.png" width="119px" align="left" /></a>
+          <a href="https://plus.netzun.com/pack/6"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/netzun-logo-grey.png" width="119px" align="left" /></a>
         </mj-text>
       </mj-column>
       <mj-column>
