@@ -1,0 +1,191 @@
+<mjml>
+  <mj-head>
+     <mj-font name="Nunito" href="https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap" />
+  </mj-head>
+  <mj-body>
+    <!-- Header -->
+    <mj-section background-color="#4454b2" padding="0">
+      <mj-column>
+        <mj-image padding="0" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/hero.jpg" width="600px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Body -->
+    <mj-section padding="32px" background-color="#f4f7f9" padding-bottom="24px">
+      <mj-column>
+        <mj-text align="center" font-family="Nunito" color="#4d5668" font-size="24px" font-weight="700">Accede a estos 12 Cursos de Diseño</mj-text>
+        <mj-text align="center" font-family="Nunito" color="#4d5668" font-size="18px" line-height="26px">Aprende desde cero y domina las herramientas más importantes en el mundo del diseño.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Button -->
+    <mj-section padding="32px" padding-top="0" padding-bottom="16px" background-color="#f4f7f9">
+      <mj-column>
+        <mj-button href="https://plus.netzun.com/" font-family="Nunito" background-color="#6f75ff" color="white" font-size="16px" font-weight="700">
+          Acceder Ahora
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Separated -->
+    <mj-section background-color="#f4f7f9" padding="20px" padding-top="0" padding-bottom="16px">
+      <mj-column>
+        <mj-divider border-width="4px" border-color="#e9ebed" />
+      </mj-column>
+    </mj-section>
+    
+    <!-- Courses -->
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="16px">
+      <mj-column>
+        <mj-text align="center" font-family="Nunito" color="#4d5668" font-size="24px" font-weight="700">Conoce los nuevos cursos del pack</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+              <a href="https://plus.netzun.com/course/71">
+                <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/001.png" width="80px" />
+              </a>
+            </td>
+            <td style="font-family: Nunito; font-weight: 700; font-size: 18px; color: #787e88; padding-left: 12px">
+              <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" />
+              <a href="https://plus.netzun.com/course/71" style="color: #787e88; text-decoration: none;">Photoshop para Social Media</a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+              <a href="https://plus.netzun.com/course/72">
+                <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/002.png" width="80px" />
+              </a>
+            </td>
+            <td style="font-family: Nunito; font-weight: 700; font-size: 18px; color: #787e88; padding-left: 12px">
+              <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" />
+              <a href="https://plus.netzun.com/course/72" style="color: #787e88; text-decoration: none;">Photoshop: Herramientas y Usos</a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+              <a href="https://plus.netzun.com/course/91">
+                <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/003.png" width="80px" />
+              </a>
+            </td>
+            <td style="font-family: Nunito; font-weight: 700; font-size: 18px; color: #787e88; padding-left: 12px">
+              <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" />
+              <a href="https://plus.netzun.com/course/91" style="color: #787e88; text-decoration: none;">Introducción a After Effects</a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+              <a href="https://plus.netzun.com/course/75">
+                <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/004.png" width="80px" />
+              </a>
+            </td>
+            <td style="font-family: Nunito; font-weight: 700; font-size: 18px; color: #787e88; padding-left: 12px">
+              <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" />
+              <a href="https://plus.netzun.com/course/75" style="color: #787e88; text-decoration: none;">Introducción a InDesign</a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+              <a href="https://plus.netzun.com/course/90">
+                <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/005.png" width="80px" />
+              </a>
+            </td>
+            <td style="font-family: Nunito; font-weight: 700; font-size: 18px; color: #787e88; padding-left: 12px">
+              <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" />
+              <a href="https://plus.netzun.com/course/90" style="color: #787e88; text-decoration: none;">Premiere: Edición de Video</a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+              <a href="https://plus.netzun.com/course/80">
+                <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/006.png" width="80px" />
+              </a>
+            </td>
+            <td style="font-family: Nunito; font-weight: 700; font-size: 18px; color: #787e88; padding-left: 12px">
+              <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" />
+              <a href="https://plus.netzun.com/course/80" style="color: #787e88; text-decoration: none;">InDesign: Diseño para Retail</a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="32px">
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+              <a href="https://plus.netzun.com/course/21">
+                <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/007.png" width="80px" />
+              </a>
+            </td>
+            <td style="font-family: Nunito; font-weight: 700; font-size: 18px; color: #787e88; padding-left: 12px">
+              <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" />
+              <a href="https://plus.netzun.com/course/21" style="color: #787e88; text-decoration: none;">Photoshop Básico a Avanzado</a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+              <a href="https://plus.netzun.com/course/43">
+                <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-creativa/008.png" width="80px" />
+              </a>
+            </td>
+            <td style="font-family: Nunito; font-weight: 700; font-size: 18px; color: #787e88; padding-left: 12px">
+              <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" />
+              <a href="https://plus.netzun.com/course/43" style="color: #787e88; text-decoration: none;">Illustrator Básico a Avanzado</a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="32px" padding-bottom="0px" background-color="#e6e9ed">
+      <mj-column>
+        <mj-text>
+          <a href="https://plus.netzun.com/"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/netzun-logo-grey.png" width="119px" align="left" /></a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right">
+          <a href="https://www.facebook.com/netzunplus/" style="padding-right: 8px"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/facebook.png" width="12px" /></a>
+          <a href="https://www.instagram.com/netzunplus/" style="padding-right: 8px"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/instagram.png" width="20px" /></a>
+          <a href="https://www.youtube.com/channel/UCe58XimU-OOd2bRkbltyW1Q"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/youtube.png" width="29px" /></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="32px" padding-top="0" background-color="#e6e9ed">
+      <mj-column>
+        <mj-text align="left" font-family="Nunito" color="#808a9d" font-size="14px">Si tienes alguna duda contáctanos al 987 596 901 | contacto@netzun.com</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

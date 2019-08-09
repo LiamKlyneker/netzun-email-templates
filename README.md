@@ -1,2 +1,2 @@
-# netzun-email-templates
+# Netzun Email Templates
 Netzun Email Templates
