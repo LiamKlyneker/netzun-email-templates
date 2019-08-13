@@ -1,0 +1,12 @@
+<mjml>
+  <mj-body>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image padding="0px" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/encuentro-jovenes/001.jpg" href="https://aperhu.pe/encuentroprofesionalesrrhh/" />
+        <mj-image padding="0px" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/encuentro-jovenes/002.jpg" href="https://aperhu.pe/encuentroprofesionalesrrhh/" />
+        <mj-image padding="0px" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/encuentro-jovenes/003.jpg" href="https://aperhu.pe/encuentroprofesionalesrrhh/" />
+        <mj-image padding="0px" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/encuentro-jovenes/004.jpg" href="https://aperhu.pe/encuentroprofesionalesrrhh/" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

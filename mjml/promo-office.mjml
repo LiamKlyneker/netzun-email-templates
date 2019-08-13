@@ -1,0 +1,107 @@
+<mjml>
+  <mj-head>
+     <mj-font name="Gotham Rounded Book" href="https://cdn.jsdelivr.net/npm/gotham-fonts@1.0.3/css/gotham-rounded.css" />
+  </mj-head>
+  <mj-body>
+    <!-- Header -->
+    <mj-section background-color="#4454b2" padding="0">
+      <mj-column>
+        <mj-image padding="0" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-office/hero.jpg" href="https://plus.netzun.com/pack/9" width="600px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Body -->
+    <mj-section padding="24px" background-color="#f4f7f9" padding-bottom="24px">
+      <mj-column>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="24px" font-weight="700">Accede a 8 Cursos de Marketing</mj-text>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="18px" line-height="26px">Adquiere los conocimientos de reconocidos profesionales que contribuirán en tu aprendizaje.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Button -->
+    <mj-section padding="32px" padding-top="0" padding-bottom="16px" background-color="#f4f7f9">
+      <mj-column>
+        <mj-button href="https://plus.netzun.com/pack/9" font-family="Helvetica, Arial, sans-serif" background-color="#6f75ff" color="white" font-size="16px" font-weight="700">
+          Acceder Ahora
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Separated -->
+    <mj-section background-color="#f4f7f9" padding="20px" padding-top="0" padding-bottom="16px">
+      <mj-column>
+        <mj-divider border-width="4px" border-color="#e9ebed" />
+      </mj-column>
+    </mj-section>
+    
+    <!-- Courses -->
+    <mj-section background-color="#f4f7f9" padding="24px" padding-top="0" padding-bottom="16px">
+      <mj-column>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="24px" font-weight="700">Conoce los nuevos cursos del pack</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="16px">
+      <mj-column padding-right="0" width="142px">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-office/001.jpg" padding="0" padding-right="16px" width="142px" fluid-on-mobile="true" />
+      </mj-column>
+      <mj-column padding-left="0">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/new-tag.png" width="70px" padding="0" align="left" padding-bottom="10px" padding-top="4px"/>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="18px" color="#4d5668" padding="0" padding-bottom="8px">Excel: Tablas Dinámicas</mj-text>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-weight="300" font-size="16px" color="#4d5668" padding="0">De básico a avanzado</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="16px">
+      <mj-column padding-right="0" width="142px">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-office/002.jpg" padding="0" padding-right="16px" width="142px" fluid-on-mobile="true" />
+      </mj-column>
+      <mj-column padding-left="0">
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="18px" color="#4d5668" padding="0" padding-bottom="8px" padding-top="16px">3 cursos Microsoft Excel</mj-text>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-weight="300" font-size="16px" color="#4d5668" padding="0">Básico - Intermedio - Avanzado</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="16px">
+      <mj-column padding-right="0" width="142px">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-office/002.jpg" padding="0" padding-right="16px" width="142px" fluid-on-mobile="true" />
+      </mj-column>
+      <mj-column padding-left="0">
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="18px" color="#4d5668" padding="0" padding-bottom="8px" padding-top="16px">Curso Microsoft Word</mj-text>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-weight="300" font-size="16px" color="#4d5668" padding="0">De principiante a experto</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="56px">
+      <mj-column padding-right="0" width="142px">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/promo-office/002.jpg" padding="0" padding-right="16px" width="142px" fluid-on-mobile="true" />
+      </mj-column>
+      <mj-column padding-left="0">
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="18px" color="#4d5668" padding="0" padding-bottom="8px" padding-top="16px">Curso Microsoft Power Point</mj-text>
+        <mj-text font-family="Helvetica, Arial, sans-serif" font-weight="300" font-size="16px" color="#4d5668" padding="0">De principiante a experto</mj-text>
+      </mj-column>
+    </mj-section>
+
+    
+
+    <!-- Footer -->
+    <mj-section padding="32px" padding-bottom="0px" background-color="#e6e9ed">
+      <mj-column>
+        <mj-text>
+          <a href="https://plus.netzun.com/pack/9"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/netzun-logo-grey.png" width="119px" align="left" /></a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right">
+          <a href="https://www.facebook.com/netzunplus/" style="padding-right: 8px"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/facebook.png" width="12px" /></a>
+          <a href="https://www.instagram.com/netzunplus/" style="padding-right: 8px"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/instagram.png" width="20px" /></a>
+          <a href="https://www.youtube.com/channel/UCe58XimU-OOd2bRkbltyW1Q"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/youtube.png" width="29px" /></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="32px" padding-top="0" background-color="#e6e9ed">
+      <mj-column>
+        <mj-text align="left" font-family="Helvetica, Arial, sans-serif" color="#808a9d" font-size="14px" line-height="18px">Si tienes alguna duda contáctanos al <b>987 596 901 | contacto@netzun.com</b></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
