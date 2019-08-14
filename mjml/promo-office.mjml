@@ -13,8 +13,8 @@
     <!-- Body -->
     <mj-section padding="24px" background-color="#f4f7f9" padding-bottom="24px">
       <mj-column>
-        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="24px" font-weight="700">Accede a 8 Cursos de Marketing</mj-text>
-        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="18px" line-height="26px">Adquiere los conocimientos de reconocidos profesionales que contribuirán en tu aprendizaje.</mj-text>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="24px" font-weight="700">Accede a estos 6 cursos de Microsof Office</mj-text>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="18px" line-height="26px">Aprende a manejar estas 3 herramientas claves para tu desarrollo profesional.</mj-text>
       </mj-column>
     </mj-section>
 
