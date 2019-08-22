@@ -1,0 +1,155 @@
+<mjml>
+  <mj-head>
+     <mj-font name="Helvetica, Arial, sans-serif" href="https://cdn.jsdelivr.net/npm/gotham-fonts@1.0.3/css/gotham-rounded.css" />
+  </mj-head>
+  <mj-body>
+    <!-- Header -->
+    <mj-section background-color="#4454b2" padding="0">
+      <mj-column>
+        <mj-image padding="0" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/hero.jpg" href="https://plus.netzun.com/memberships" width="600px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Body -->
+    <mj-section padding="16px" background-color="#f4f7f9" padding-top="24px">
+      <mj-column>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="20px" font-weight="700">Accede a 80 cursos con nuestro FULL PASS*</mj-text>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#787e88" font-size="18px" line-height="26px" font-weight="300">Adquiere diferentes conocimientos y continua creciendo junto a los mejores profesionales.</mj-text>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#3284ef" font-size="17px" line-height="26px" font-weight="300">Conoce lo que tenemos para ti</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Courses -->
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+              <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/01.png" width="80px" />
+            </td>
+            <td style="font-family: Helvetica, Arial, sans-serif; font-weight: 700; font-size: 22px; color: #4d5668; padding-left: 12px; text-decoration: none;">
+              <div style="margin-bottom: 8px;"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/34-courses.png" width="100px" /></div>
+              Marketing
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+                <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/02.png" width="80px" />
+            </td>
+            <td style="font-family: Helvetica, Arial, sans-serif; font-weight: 700; font-size: 22px; color: #4d5668; padding-left: 12px">
+              <div style="margin-bottom: 8px;"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/7-courses.png" width="100px" /></div>
+              Ofimática
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f4f7f9" padding="32px" padding-top="0" padding-bottom="16px">
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+              <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/03.png" width="80px" />
+            </td>
+            <td style="font-family: Helvetica, Arial, sans-serif; font-weight: 700; font-size: 22px; color: #4d5668; padding-left: 12px; text-decoration: none;">
+              <div style="margin-bottom: 8px;"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/28-courses.png" width="100px" /></div>
+              Diseño
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 80px;">
+                <img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/04.png" width="80px" />
+            </td>
+            <td style="font-family: Helvetica, Arial, sans-serif; font-weight: 700; font-size: 22px; color: #4d5668; padding-left: 12px">
+              <div style="margin-bottom: 8px;"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/8-courses.png" width="100px" /></div>
+              Liderazgo
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    
+    
+    <!-- Button -->
+    <mj-section padding="16px" padding-top="0" padding-bottom="0" background-color="#f4f7f9">
+      <mj-column>
+        <mj-button href="https://plus.netzun.com/memberships" font-family="Helvetica, Arial, sans-serif" background-color="#6f75ff" color="white" font-size="16px" font-weight="700">
+          Acceder Ahora
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="16px" background-color="#f4f7f9" padding-bottom="0" padding-top="0">
+      <mj-column>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="14px" font-weight="300" line-height="24px">*Los cursos de Wendy Ramos y Giovanni Ciccia solo se incluyen en <br /> <b>FULL PASS x 1 año.</b></mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Separator -->
+    <mj-section background-color="#f4f7f9" padding="20px" padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-divider border-width="4px" border-color="#e9ebed" />
+      </mj-column>
+    </mj-section>
+    
+    <!-- Body -->
+    <mj-section padding="16px" background-color="#f4f7f9" padding-top="16px" padding-bottom="0">
+      <mj-column>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="20px" font-weight="700" padding-bottom="0">Aprende junto a los mejores</mj-text>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#787e88" font-size="16px" line-height="26px" font-weight="300">Nuestros profesores ejercen en las empresas más reconocidas.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="40px" background-color="#f4f7f9" padding-top="0" padding-bottom="8px">
+      <mj-column padding-top="8px">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/logo001.png" />
+      </mj-column>
+      <mj-column padding-top="8px">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/logo002.png" />
+      </mj-column>
+      <mj-column padding-top="8px">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/logo003.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="40px" background-color="#f4f7f9" padding-top="0" padding-bottom="32px">
+      <mj-column padding-top="8px">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/logo004.png" />
+      </mj-column>
+      <mj-column padding-top="8px">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/logo005.png" width="100px" />
+      </mj-column>
+      <mj-column padding-top="8px">
+        <mj-image src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/80-courses/logo006.png" width="50px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="32px" padding-bottom="0px" background-color="#e6e9ed">
+      <mj-column>
+        <mj-text>
+          <a href="https://plus.netzun.com/memberships"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/netzun-logo-grey.png" width="119px" align="left" /></a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right">
+          <a href="https://www.facebook.com/netzunplus/" style="padding-right: 8px"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/facebook.png" width="12px" /></a>
+          <a href="https://www.instagram.com/netzunplus/" style="padding-right: 8px"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/instagram.png" width="20px" /></a>
+          <a href="https://www.youtube.com/channel/UCe58XimU-OOd2bRkbltyW1Q"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/youtube.png" width="29px" /></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="32px" padding-top="0" background-color="#e6e9ed">
+      <mj-column>
+        <mj-text align="left" font-family="Helvetica, Arial, sans-serif" color="#808a9d" font-size="13px">Si tienes alguna duda contáctanos al <b>987 596 901 | contacto@netzun.com</b></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
