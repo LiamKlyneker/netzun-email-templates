@@ -1,0 +1,24 @@
+<!-- Footer -->
+<mj-body>
+  <mjml>
+    <mj-section padding="32px" padding-bottom="0px" background-color="#e6e9ed">
+      <mj-column>
+        <mj-text>
+          <a href="https://plus.netzun.com/pack/43"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/netzun-logo-grey.png" width="119px" align="left" /></a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right">
+          <a href="https://www.facebook.com/netzunplus/" style="padding-right: 8px"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/facebook.png" width="12px" /></a>
+          <a href="https://www.instagram.com/netzunplus/" style="padding-right: 8px"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/instagram.png" width="20px" /></a>
+          <a href="https://www.youtube.com/channel/UCe58XimU-OOd2bRkbltyW1Q"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/youtube.png" width="29px" /></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="32px" padding-top="0" background-color="#e6e9ed">
+      <mj-column>
+        <mj-text align="left" font-family="Helvetica, Arial, sans-serif" color="#808a9d" font-size="13px">Si tienes alguna duda contáctanos al <b>987 596 901 | contacto@netzun.com</b></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

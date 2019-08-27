@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+     <mj-font name="Helvetica, Arial, sans-serif" href="https://cdn.jsdelivr.net/npm/gotham-fonts@1.0.3/css/gotham-rounded.css" />
+  </mj-head>
+  <mj-body>
+    <!-- Header -->
+    <mj-section background-color="#4454b2" padding="0">
+      <mj-column>
+        <mj-image padding="0" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/pack-premium/hero.jpg" href="https://plus.netzun.com/pack/43" width="600px" />
+      </mj-column>
+    </mj-section>
+    <!-- Body -->
+    <mj-section padding="16px" background-color="#f4f7f9" padding-top="32px" padding-bottom="24px">
+      <mj-column>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#3284ef" font-size="17px" font-weight="400" line-height="16px">
+          CURSOS ONLINE
+          <hr style="width: 77px; border-color: #3284ef; box-shadow: none; border-style: solid;" />
+        </mj-text>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#4d5668" font-size="22px" line-height="26px" font-weight="700">Aprovecha esta super promoción.</mj-text>
+        <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#787e88" font-size="18px" line-height="26px" font-weight="400">Juntamos a dos grandes referentes para que conozcas sus experiencias, tips y lo que hicieron para triunfar en lo que más les gusta.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="16px" padding-top="0" padding-bottom="16px" background-color="#f4f7f9">
+      <mj-group>
+        <mj-column>
+          <mj-image width="206px" padding="0" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/pack-premium/wendy.png" />
+          <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#787e88" font-size="16px" font-weight="400" line-height="22px"><b>Amar lo que haces</b> con <br /> <b>Wendy Ramos</b></mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="206px" padding="0" src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/pack-premium/giovanni.png" />
+          <mj-text align="center" font-family="Helvetica, Arial, sans-serif" color="#787e88" font-size="16px" font-weight="400" line-height="22px"><b>Actuación</b> con <br /> <b>Giovanni Ciccia</b></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <!-- Button -->
+    <mj-section padding="16px" padding-top="0" padding-bottom="32px" background-color="#f4f7f9">
+      <mj-column>
+        <mj-button href="https://plus.netzun.com/pack/43" font-family="Helvetica, Arial, sans-serif" background-color="#6f75ff" color="white" font-size="16px" font-weight="700">
+          Más información aquí
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Footer -->
+    <mj-section padding="32px" padding-bottom="0px" background-color="#e6e9ed">
+      <mj-column>
+        <mj-text>
+          <a href="https://plus.netzun.com/pack/43"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/netzun-logo-grey.png" width="119px" align="left" /></a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right">
+          <a href="https://www.facebook.com/netzunplus/" style="padding-right: 8px"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/facebook.png" width="12px" /></a>
+          <a href="https://www.instagram.com/netzunplus/" style="padding-right: 8px"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/instagram.png" width="20px" /></a>
+          <a href="https://www.youtube.com/channel/UCe58XimU-OOd2bRkbltyW1Q"><img src="https://netzun.s3-us-west-1.amazonaws.com/mailing/plus/icons/youtube.png" width="29px" /></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="32px" padding-top="0" background-color="#e6e9ed">
+      <mj-column>
+        <mj-text align="left" font-family="Helvetica, Arial, sans-serif" color="#808a9d" font-size="13px">Si tienes alguna duda contáctanos al <b>987 596 901 | contacto@netzun.com</b></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
